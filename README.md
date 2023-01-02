@@ -70,4 +70,6 @@ To reduce the errors that one sees, it’s often needed to just simplify the pro
 
 It’s often hard to know if there are actually errors in data when it’s been handed to you without further context and historical information. If you yourself aren’t a SME, it is highly recommended you find who knows the most about the data you are working with so that further information can be given.
 
+## Assessment/learning check questions
 
+1. Find at least one “bad” graphic online in your field and lay out what is wrong with it and how it could be improved to better tell a truthful, clarifying story.
