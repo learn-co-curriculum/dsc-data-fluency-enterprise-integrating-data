@@ -7,6 +7,7 @@ In an ideal world, we have the experience and expertise to understand how every 
 Subject matter experts (SMEs) are individuals who have a deep understanding of a specific subject or area of expertise. They can provide valuable insights and information that can help organizations make informed decisions when working with data.
 
 There are several reasons why SMEs are important when working with data:
+
   - Expertise: SMEs have extensive knowledge about a particular subject, which can be very useful when working with data related to that subject. They can provide valuable context and perspective that can help organizations better understand the data and make more informed decisions.
   - Accuracy: SMEs can help ensure the accuracy and reliability of data by reviewing and verifying it for errors or inconsistencies. This is especially important when working with data that will be used to make critical decisions.
   - Data interpretation: SMEs can help interpret data and provide insights that may not be immediately obvious to those who do not have a deep understanding of the subject matter. They can provide valuable insights that can help organizations make better informed decisions.
@@ -21,6 +22,7 @@ SMEs can also help us identify issues in our data analysis that should be addres
 Bias can play a significant role in data analysis, as it can influence the way that data is collected, the way that it is analyzed, and the way that conclusions are drawn from it. Bias can come in many forms, including cognitive bias, which is the result of mental shortcuts or preconceived notions that can influence how we interpret and analyze data, and sampling bias, which occurs when the sample of data that is collected is not representative of the entire population. It is important to be aware of the potential for bias in data analysis, and to take steps to minimize it, in order to ensure that the conclusions drawn from the data are accurate and reliable.
 
 There are many ways in which bias can occur in predictive analytics. Some examples include:
+
   - Sampling bias: This occurs when the data used to train the predictive model is not representative of the entire population. For example, if the data used to train a model to predict creditworthiness is mostly from high-income individuals, the model may be less accurate for low-income individuals.
   - Selection bias: This occurs when the data used to train the predictive model is not chosen randomly, but is instead selected based on certain criteria. For example, if a model is trained on data from only a particular geographic region, it may not be representative of the entire population.
   - Confirmation bias: This is the tendency to search for, interpret, and prioritize information that confirms one's preconceptions or hypotheses. This can lead to overfitting, where the model performs well on the training data but poorly on unseen data.
@@ -31,6 +33,7 @@ It is important to be aware of these potential sources of bias and to take steps
 ## Common data problems
 
 There are many common problems that can arise when working with data. Some of the most common problems include:
+
   - Lack of quality: The data may be inaccurate, incomplete, or unreliable, which can lead to incorrect or misleading results.
   - Inconsistency: The data may be formatted or structured differently in different sources or at different times, which can make it difficult to combine or analyze.
   - Duplication: There may be multiple copies of the same data in different places, or the data may be repeated within the same dataset, which can inflate results or cause confusion.
@@ -49,6 +52,7 @@ To address these problems, it is important to carefully plan and execute the dat
 One of the most common data problems is missing data. There is no clear example of how to deal with every single type of missing data. It really depends on the data and the specific problem at hand in how missing data should be handled.
 
 Missing data refers to data that are not available for a particular observation in a dataset. There can be several reasons for data to be missing, such as the data being lost, the participant in a study forgetting to provide an answer, or the participant choosing not to disclose certain information.There are several ways to deal with missing data, including:
+
   - Deletion: This involves deleting the entire row or column that contains missing data. However, this method is not recommended as it can result in a loss of a large amount of data, which can affect the validity of the results.
   - Imputation: This involves replacing the missing data with some estimated or imputed value. There are several methods of imputation, such as mean imputation, median imputation, and multiple imputation. Multiple imputation involves imputing multiple values for the missing data and then analyzing the data multiple times, taking into account the uncertainty introduced by the imputation process. The results are then combined to produce the final results.
   - Maximum likelihood estimation: This method involves estimating the missing data using the maximum likelihood function, which is the probability of the observed data given the missing data.
@@ -70,9 +74,4 @@ To reduce the errors that one sees, it’s often needed to just simplify the pro
 
 It’s often hard to know if there are actually errors in data when it’s been handed to you without further context and historical information. If you yourself aren’t a SME, it is highly recommended you find who knows the most about the data you are working with so that further information can be given.
 
-## Assessment/learning check questions
-
-1. How do you and/or your team(s) identify problems in your data?
-2. Do you have examples of issues with data you’ve seen in the past using your subject matter expertise? How were you able to resolve them? Who else helped you?
-3. What steps can you take to detect data problems automatically?
 
