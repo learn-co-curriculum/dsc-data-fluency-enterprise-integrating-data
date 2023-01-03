@@ -1,6 +1,6 @@
 # Data Fluency - Integrating Data and Expertise
 
-In an ideal world, we have the experience and expertise to understand how every single piece of data was collected for use by our team. We often are in situations where we must rely on the knowledge of others to help us understand the data and how to best draw insights from it.
+In an ideal world, you have the experience and expertise to understand how every single piece of data was collected for use by your team. However, you often are in situations where you must rely on the knowledge of others to help you understand the data and how to best draw insights from it.
 
 ## The importance of Subject Matter Experts
 
@@ -15,11 +15,11 @@ There are several reasons why SMEs are important when working with data:
 
 Subject matter experts play a crucial role in helping organizations make informed decisions when working with data. They provide valuable expertise, accuracy, interpretation, and communication that can help organizations make the most of their data.
 
-SMEs can also help us identify issues in our data analysis that should be addressed. This includes bias in both how the data was collected and also how it was analyzed.
+SMEs can also help us identify issues in your data analysis that should be addressed. This includes bias in both how the data was collected and also how it was analyzed.
 
 ## Bias in data analysis
 
-Bias can play a significant role in data analysis, as it can influence the way that data is collected, the way that it is analyzed, and the way that conclusions are drawn from it. Bias can come in many forms, including cognitive bias, which is the result of mental shortcuts or preconceived notions that can influence how we interpret and analyze data, and sampling bias, which occurs when the sample of data that is collected is not representative of the entire population. It is important to be aware of the potential for bias in data analysis, and to take steps to minimize it, in order to ensure that the conclusions drawn from the data are accurate and reliable.
+Bias can play a significant role in data analysis, as it can influence the way that data is collected, the way that it is analyzed, and the way that conclusions are drawn from it. Bias can come in many forms, including cognitive and sampling bias. Cognitive bias is the result of mental shortcuts or preconceived notions that can influence how you interpret and analyze data. Sampling bias occurs when the sample of data that is collected is not representative of the entire population. It is important to be aware of the potential for bias in data analysis, and to take steps to minimize it, in order to ensure that the conclusions drawn from the data are accurate and reliable.
 
 There are many ways in which bias can occur in predictive analytics. Some examples include:
 
@@ -51,7 +51,7 @@ To address these problems, it is important to carefully plan and execute the dat
 
 One of the most common data problems is missing data. There is no clear example of how to deal with every single type of missing data. It really depends on the data and the specific problem at hand in how missing data should be handled.
 
-Missing data refers to data that are not available for a particular observation in a dataset. There can be several reasons for data to be missing, such as the data being lost, the participant in a study forgetting to provide an answer, or the participant choosing not to disclose certain information.There are several ways to deal with missing data, including:
+Missing data refers to data that are not available for a particular observation in a dataset. There can be several reasons for data to be missing, such as the data being lost, the participant in a study forgetting to provide an answer, or the participant choosing not to disclose certain information. There are several ways to deal with missing data, including:
 
   - Deletion: This involves deleting the entire row or column that contains missing data. However, this method is not recommended as it can result in a loss of a large amount of data, which can affect the validity of the results.
   - Imputation: This involves replacing the missing data with some estimated or imputed value. There are several methods of imputation, such as mean imputation, median imputation, and multiple imputation. Multiple imputation involves imputing multiple values for the missing data and then analyzing the data multiple times, taking into account the uncertainty introduced by the imputation process. The results are then combined to produce the final results.
@@ -62,7 +62,7 @@ It is important to carefully consider the best method to use for dealing with mi
 
 ### Working with imperfect data
 
-So we have data that is likely not perfect. These are some strategies for working with imperfections.
+So you have data that is likely not perfect. These are some strategies for working with imperfections.
 
 Make sure to allot enough time for your data request to allow for documentation time. This can often be done by factoring in a cool down period after the initial work sprint where the data is documented and each column is analyzed further to check for outliers or changes in patterns over time. The focus here can be on explaining why choices were made. 
 
@@ -70,7 +70,7 @@ Just like your teachers asked you to show your work, it’s equally as important
 
 Whenever possible, ensure that the process for collecting data is documented and a system is in place. Say there was an error in a particular column of your data, can you track down easily where that error occurred?
 
-To reduce the errors that one sees, it’s often needed to just simplify the process. One example to often see this is with open-ended surveys. Suppose we were interested in following up with alumni at a school to better understand what pieces of the curriculum they use most in their day-to-day on the job based on which metropolitan area they live in. If we asked alumni what city they lived in, we might get responses like San Fran or Philly. These aren’t that difficult to map to the actual US city names, but the question itself could be simplified to provide options for the survey taker and a spot for them to clarify as needed. Then extra work won’t be needed except in the special cases of clarification.
+To reduce the errors in collected data, it’s often needed to just simplify the process. One example to often see this is with open-ended surveys. Suppose you were interested in following up with alumni at a school to better understand what pieces of the curriculum they use most in their day-to-day on the job based on which metropolitan area they live in. If you asked alumni what city they lived in, you might get responses like San Fran or Philly. These aren’t that difficult to map to the actual US city names, but the question itself could be simplified to provide options for the survey taker and a spot for them to clarify as needed. Then extra work won’t be needed except in the special cases of clarification.
 
 It’s often hard to know if there are actually errors in data when it’s been handed to you without further context and historical information. If you yourself aren’t a SME, it is highly recommended you find who knows the most about the data you are working with so that further information can be given.
 
