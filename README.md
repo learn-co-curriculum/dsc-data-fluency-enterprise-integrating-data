@@ -74,4 +74,9 @@ To reduce the errors that one sees, it’s often needed to just simplify the pro
 
 It’s often hard to know if there are actually errors in data when it’s been handed to you without further context and historical information. If you yourself aren’t a SME, it is highly recommended you find who knows the most about the data you are working with so that further information can be given.
 
+## Assessment/learning check questions
+
+1. How do you and/or your team(s) identify problems in your data?
+2. Do you have examples of issues with data you’ve seen in the past using your subject matter expertise? How were you able to resolve them? Who else helped you?
+3. What steps can you take to detect data problems automatically?
 
