@@ -76,6 +76,8 @@ It’s often hard to know if there are actually errors in data when it’s been 
 
 ## Assessment/learning check questions
 
+After reading the content above, take approximately 30 minutes to think about and note your responses to the questions below:
+
 1. How do you and/or your team(s) identify problems in your data?
 2. Do you have examples of issues with data you’ve seen in the past using your subject matter expertise? How were you able to resolve them? Who else helped you?
 3. What steps can you take to detect data problems automatically?
