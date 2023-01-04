@@ -30,6 +30,8 @@ There are many ways in which bias can occur in predictive analytics. Some exampl
 
 It is important to be aware of these potential sources of bias and to take steps to minimize them in order to ensure that the predictive models are fair and accurate.
 
+![Bias types](https://user-images.githubusercontent.com/12752033/210634207-c6bd1af6-e4df-4d04-b415-053f81d5e24a.png)
+
 ## Common data problems
 
 There are many common problems that can arise when working with data. Some of the most common problems include:
